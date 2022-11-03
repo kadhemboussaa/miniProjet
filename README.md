@@ -9,7 +9,7 @@
 
 - Le marché de la crypto-monnaie est aussi volatil qu'il est chaud en ce moment. Ce projet utilise les données de l'API coinmarketcap pour explorer la capitalisation boursière de Bitcoin et d'autres crypto-monnaies.
 
-##Le démarche de projet##
+## Le démarche de projet
 
 1. Bitcoin et crypto-monnaies : jeu de données complet, filtrage et reproductibilité
 2. Jetez les crypto-monnaies sans capitalisation boursière
